@@ -4,4 +4,14 @@
 
 **Legajo:12617**
 
-Soy tecnico electronico, tengo 19 años y me interesa la programacion, los videojuegos y la inteligencia artificial.
+Soy técnico electrónico egresado de la Escuela Técnica Roberto Rocca.
+
+Tengo 19 años y vivo en Campana.
+
+Me interesan:
+
+-La programación.
+
+-Los videojuegos.
+
+-Inteligencia artificial.

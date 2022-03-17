@@ -1,6 +1,6 @@
 # Nahuel Alberto Galliano
 
-![foto](foto.jpg)
+![foto](foto.png)
 
 **Legajo:12617**
 

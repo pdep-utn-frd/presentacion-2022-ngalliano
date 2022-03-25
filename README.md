@@ -16,4 +16,4 @@ Me interesan:
 
 -Los videojuegos.
 
--Inteligencia artificial.
+-Inteligencia artificial (machine learning).
